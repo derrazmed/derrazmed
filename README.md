@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @derrazmed or, DERRAZ EL KABIR Mohamed
-- 👀 I’m interested in ...
 - 🌱 I’m currently a 3rd year student, specialization in Network and Computer Engineering.
 - 📫 To reach me: in/mohamed-derraz-el-kabir
