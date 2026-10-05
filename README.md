@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @derrazmed or, DERRAZ EL KABIR Mohamed
-- 🌱 I’m currently a 5th year student, specialization in Backend Development in Spring Boot.
+- 🌱 A software engineering graduate.
 - 📫 To reach me: in/mohamed-derraz-el-kabir
